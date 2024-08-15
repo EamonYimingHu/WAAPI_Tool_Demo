@@ -5,8 +5,11 @@
 本次实现以下功能：
 
 ● 批量导入音频
+
 ● 自动化生成EVENT，SoundBank
+
 ● 批量设置Object参数
+
 ● 自动裁剪音频的前后空白
 
 搭建UI界面：
@@ -17,4 +20,5 @@
 
 ![image](https://github.com/user-attachments/assets/e1e30c1e-f527-4955-9c36-f19a506f6152)
 
-功能实现代码参考原始Repository：waapi-python-tools from Bernard Rodrigue
+功能实现代码参考原始Repository：waapi-python-tools from Bernard Rodrigue；Everyone-Can-Use-WAAPI from zcyh147
+
