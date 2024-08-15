@@ -10,7 +10,8 @@
 ● 自动裁剪音频的前后空白
 
 搭建UI界面：
-![image](https://github.com/user-attachments/assets/58d4db0e-a3b1-4207-bb62-01096f06995c)
+![image](https://github.com/user-attachments/assets/be3b769f-5ab8-4aff-b012-65c8b6bff15a)
+
 
 示例：创建指定的WorkUnit/Actor-Mixer/Container/批量导入音频
 
